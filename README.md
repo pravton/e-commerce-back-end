@@ -35,7 +35,6 @@ You need to create and seed the database first, then start the server. Mockup co
 source db/schema.sql
 ```
 2. Seed content using the following command
---------------------
 ```
 npm run seeds
 ```
