@@ -30,16 +30,18 @@ npm install
 
 You need to create and seed the database first, then start the server. Mockup content is already created. Please create the database in MYSQL and run the following commands
 
+1. Create the databse in mysql
 ```
-mysql
---------------------
 source db/schema.sql
-
-node
+```
+2. Seed content using the following command
 --------------------
+```
 npm run seeds
+```
+3. Start the server
+```
 npm start
-
 ```
 
 ## 🎞️ Walkthrough Video
