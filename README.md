@@ -9,6 +9,8 @@ A back end for an e-commerce site using Express.js and Sequelize.
 
 - [Installation](#%EF%B8%8F-installation)
 - [Usage](#%EF%B8%8F-usage)
+- [Walkthrough Video](#%EF%B8%8F-walkthrough-video)
+- [Final Output GIF](#%EF%B8%8F-final-output-gif)
 - [License](#-license)
 - [Contributing](#-contributing)
 - [Questions](#-questions)
@@ -40,6 +42,13 @@ npm start
 
 ```
 
+## 🎞️ Walkthrough Video
+
+[**Click Here**](https://youtu.be/6Gxf1hMDpi8) to view the walkthrough video.
+
+## ▶️ Final Output GIF
+
+![Final Output](./src/images/final-output.gif "Final output of the project")
 
 
 ## 📝 License
